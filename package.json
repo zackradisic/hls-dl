@@ -1,0 +1,28 @@
+{
+  "name": "hls-dl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/hls-dl.commonjs2.js",
+  "dependencies": {
+    "m3u8-parser": "^4.5.0",
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.0",
+    "@typescript-eslint/parser": "^4.8.0",
+    "eslint": "^7.13.0",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "ts-loader": "^8.0.11",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "tsc"
+}

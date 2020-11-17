@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "outDir": "./dist",
+      "target": "es5",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "module": "amd",
+      "moduleResolution": "node",
+      "lib": ["es2016", "dom", "es5"]
+    },
+    "include": [
+      "./src/**/*", "index.ts"
+    ]
+  }
