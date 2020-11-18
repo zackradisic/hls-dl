@@ -2,8 +2,15 @@
 
 Lightweight library for downloading and concatenating HLS audio segments in the browser.
 
+Via NPM:
 ```
 npm install hls-dl
+```
+
+Or browser:
+```HTML
+<script src="https://cdn.jsdelivr.net/npm/@zackradisic/hls-dl@latest/dist/hls-dl.var.min.js"></script>
+
 ```
 
 # Quick Start

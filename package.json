@@ -1,5 +1,5 @@
 {
-  "name": "hls-dl",
+  "name": "@zackradisic/hls-dl",
   "version": "0.0.1",
   "description": "",
   "main": "dist/hls-dl.commonjs2.js",
